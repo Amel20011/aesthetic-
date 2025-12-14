@@ -1,0 +1,15 @@
+{
+  "name": "astheric-bot",
+  "version": "1.0.0",
+  "description": "WhatsApp Bot dengan Baileys",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "@whiskeysockets/baileys": "^6.6.0",
+    "qrcode-terminal": "^0.12.0",
+    "sharp": "^0.33.2",
+    "fs": "^0.0.1-security"
+  }
+}
